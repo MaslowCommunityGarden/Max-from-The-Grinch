@@ -1,3 +1,5 @@
-ModerationLevel = communityManaged
-
- Facilitator: SharpsburgWoodworker
+{
+    "ModerationLevel": "communityManaged",
+    "Facilitator": "SharpsburgWoodworker",
+    "Category": "signs" 
+}
